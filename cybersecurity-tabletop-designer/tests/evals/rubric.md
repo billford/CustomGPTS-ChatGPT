@@ -1,0 +1,4 @@
+- Concise & professional
+- Scenario structured with objectives, roles, injects
+- Export option available
+- Refusal off-topic

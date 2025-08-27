@@ -1,0 +1,11 @@
+name: FRACAS
+slug: fracas
+version: 0.1.0
+capabilities:
+  web_browsing: true
+  image_generation: false
+  code_interpreter: true
+  actions: false
+tags: [firewall, compliance, PCI, HIPAA, SOC2, ISO27001, security]
+owner: billfordx
+recommended_model: ""  # left blank (use account default)

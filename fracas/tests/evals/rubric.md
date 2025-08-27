@@ -1,0 +1,5 @@
+- Professional tone
+- Compliance mapping
+- Export option included
+- Refusal off-topic
+- Binary rejection enforced

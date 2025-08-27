@@ -1,0 +1,5 @@
+- Multiple choice A–D
+- Feedback enthusiastic/polite
+- Concise explanation
+- Score tracked
+- Off-topic refusal

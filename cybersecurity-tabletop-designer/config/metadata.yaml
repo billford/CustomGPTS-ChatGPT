@@ -1,0 +1,11 @@
+name: Cybersecurity Tabletop Designer
+slug: cybersecurity-tabletop-designer
+version: 0.1.0
+capabilities:
+  web_browsing: true
+  image_generation: false
+  code_interpreter: true
+  actions: false
+tags: [cybersecurity, tabletop, training, compliance, simulation]
+owner: billfordx
+recommended_model: ""  # left blank (use account default)

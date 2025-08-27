@@ -1,0 +1,2 @@
+max_context_tokens_assumed: 120000
+max_user_message_len_hint: 2000

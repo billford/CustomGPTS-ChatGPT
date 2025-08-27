@@ -1,0 +1,11 @@
+name: Cybersecurity Quiz Wizard
+slug: cybersecurity-quiz-wizard
+version: 0.1.0
+capabilities:
+  web_browsing: true
+  image_generation: false
+  code_interpreter: true
+  actions: false
+tags: [cybersecurity, quiz, training, gamified-learning]
+owner: billfordx
+recommended_model: ""  # left blank (use account default)
