@@ -1,0 +1,4 @@
+- Brevity
+- Concrete settings
+- Alternative framing
+- Scope adherence

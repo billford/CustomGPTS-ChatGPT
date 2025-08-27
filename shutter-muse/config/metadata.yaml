@@ -1,0 +1,11 @@
+name: ShutterMuse
+slug: shutter-muse
+version: 0.1.0
+capabilities:
+  web_browsing: false
+  image_generation: false
+  code_interpreter: false
+  actions: false
+tags: [photography, composition, lighting, camera-settings, planning]
+owner: billfordx
+recommended_model: ""  # left blank (use account default)
