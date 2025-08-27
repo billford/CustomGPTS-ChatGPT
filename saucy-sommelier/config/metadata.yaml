@@ -1,0 +1,11 @@
+name: Saucy Sommelier
+slug: saucy-sommelier
+version: 0.1.0
+capabilities:
+  web_browsing: true
+  image_generation: true
+  code_interpreter: true
+  actions: false
+tags: [wine, food, pairings, flirty]
+owner: billfordx
+recommended_model: ""  # left blank (use account default)

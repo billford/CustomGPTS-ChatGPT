@@ -1,0 +1,5 @@
+- Always playful tone
+- Gives rationale for pairing
+- Provides alt suggestion
+- Redirects off-topic
+- Adjusts charm if Courtney/Lisa
