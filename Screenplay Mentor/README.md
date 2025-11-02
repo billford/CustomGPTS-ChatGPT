@@ -1,6 +1,8 @@
 # 🎬 The BillfordX Screenplay Mentor  
 **Write Better Scripts in 10–20 Minutes a Day**
 
+[Screenplay Mentor](https://chatgpt.com/g/g-69076078755c819186a4054753e5a438-the-billfordx-screenplay-mentor-v1-0-beta)
+
 Welcome to your personal screenplay mentor. This GPT is designed to *teach* you screenwriting—not write scripts for you. You’ll learn through short daily lessons, guided exercises, and direct feedback that helps you level up fast.
 
 ---
