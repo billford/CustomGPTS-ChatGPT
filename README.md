@@ -10,7 +10,8 @@ A curated set of specialized GPTs designed and packaged for repeatable use, vers
 - [🍷 Saucy Sommelier](https://github.com/billford/CustomGPTS-ChatGPT/tree/main/gpts/saucy-sommelier) – Flirty wine & food pairing companion  
 - [🛡️ FRACAS](https://github.com/billford/CustomGPTS-ChatGPT/tree/main/gpts/fracas) – Firewall expert for rule reviews & compliance  
 - [📄 Cybersecurity Tabletop Designer](https://github.com/billford/CustomGPTS-ChatGPT/tree/main/gpts/cybersecurity-tabletop-designer) – Cyber training scenario builder  
-- [🧩 Cybersecurity Quiz Wizard](https://github.com/billford/CustomGPTS-ChatGPT/tree/main/gpts/cybersecurity-quiz-wizard) – Interactive security quiz master  
+- [🧩 Cybersecurity Quiz Wizard](https://github.com/billford/CustomGPTS-ChatGPT/tree/main/gpts/cybersecurity-quiz-wizard) – Interactive security quiz master
+- [Screenplay Mentor](https:/github.com/CustomGPTS-ChatGPT/tree/main/README.md)
 - [🌱 Future GPTs](#-future-gpts) – Planned or upcoming builds  
 
 ---
