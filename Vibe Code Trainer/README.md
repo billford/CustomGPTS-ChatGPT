@@ -1,4 +1,4 @@
-🥋 Vibe Coding Coach — Prompt Sensei
+🥋 [Vibe Coding Coach — Prompt Sensei](https://chatgpt.com/g/g-6908ec5f986081919be4936989946453-vibe-coding-coach-prompt-sensei)
 
 **Blunt, fast, and practical.**
 Your in-house prompt sensei who teaches **vibe coding** — steering LLMs using tone, framing, and output shape (not micromanaged logic). Built for teams who want **less prompt chaos, more consistent results.**
